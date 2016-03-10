@@ -3,8 +3,9 @@
 # Created on 2016/03/09
 
 
-def prim(vex: list, edge: dict, pvex: list, pedge: dict):
+def prim(vex: list, edge: dict, pedge: dict):
     # add first vex
+    pvex = []
     pvex.append(vex[0])
     pedge.clear()
     lowcost = {}
@@ -43,9 +44,8 @@ if __name__ == '__main__':
         vex[4]: {vex[0]: 45, vex[1]: 40, vex[2]: 34, vex[5]: 55},
         vex[5]: {vex[1]: 25, vex[2]: 15, vex[3]: 20, vex[4]: 55}
     }
-    pvex = []
     pedge = {}
-    prim(vex, edge, pvex, pedge)
+    prim(vex, edge, pedge)
     tc = 0  # total cost
     print("spanning tree is:")
     for key in pedge:
