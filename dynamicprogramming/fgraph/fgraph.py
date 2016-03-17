@@ -7,7 +7,7 @@
 """
 
 
-def fgraph(v: list, vex: list, edge: dict, s, t,cost:dict ,path:dict):
+def fgraph(vex: list, edge: dict, s, t,cost:dict ,path:dict):
     # init cost
     for i in range(len(vex) - 1):
         cost[i] = {}
@@ -51,7 +51,7 @@ if __name__ == '__main__':
     t=vex[len(vex) - 1][0]
     cost = {} # record min cost
     path = {} # record next vex of min cost
-    fgraph(v, vex, edge, s, t,cost,path)
+    fgraph(vex, edge, s, t,cost,path)
     for d in cost[0]:
         c = cost[0][d] # min cost
     pv = s # 通过前一个点找下一个点
