@@ -37,6 +37,7 @@
 	* [Prim](https://github.com/huangyedi2012/algorithm/tree/master/greedy/spanningtree/prim)<br>
 	* [Kruskal](https://github.com/huangyedi2012/algorithm/tree/master/greedy/spanningtree/kruskal)<br>
 5. [哈夫曼编码](https://github.com/huangyedi2012/algorithm/tree/master/cxximpl/Huffman)
+6. [会议安排](./cxximpl/ArrangeConfer)
 
 ##四、动态规划
 活动过程可以分为若干个阶段, 而且在任一阶段后的行为都仅依赖于i 阶段的过程状态, 而与i 阶段之前的过程如何达到这种状态的方式无关, 这样的过程就
