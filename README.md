@@ -34,7 +34,7 @@
 2. [背包问题：](./greedy/knapsack)采用装包方法使装入背包物品的总效益最大。<br>
 3. [Dijkstra python:](./greedy/dijkstra) or [Dijkstra c++:](./cxximpl/Dijkstra)求解单源点最短路径问题<br>
 4. [最小生成树：](./greedy/spanningtree)<br>
-	* [Prim](./greedy/spanningtree/prim) or [Prim c++](./cxximpl/Prim)<br>
+	* [Prim python](./greedy/spanningtree/prim) or [Prim c++](./cxximpl/Prim)<br>
 	* [Kruskal python](./greedy/spanningtree/kruskal) or [Kruskal c++](./cxximpl/Kruskal)<br>
 5. [哈夫曼编码](./cxximpl/Huffman)<br>
 6. [会议安排](./cxximpl/ArrangeConfer)
