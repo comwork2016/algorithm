@@ -47,7 +47,6 @@
 	* [向前处理法](./dynamicprogramming/fgraph)<br>
 	* [向后处理法](./dynamicprogramming/bgraph)<br>
 2. [Floyd：](./dynamicprogramming/floyd)每对结点之间的最短路径。<br>
-3. [最优成本二分检索树：](./dynamicprogramming/optimalbinarysearchtree)详细说明见[印
-象笔记
+3. [最优成本二分检索树：](./dynamicprogramming/optimalbinarysearchtree)详细说明见[印象笔记
 ](https://app.yinxiang.com/shard/s66/nl/14320022/b8c14f2d-ba6e-4415-acfe-9152f8b38621?title=%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92_%E6%9C%80
 %E4%BC%98%E4%BA%8C%E5%88%86%E6%A3%80%E7%B4%A2%E6%A0%91)

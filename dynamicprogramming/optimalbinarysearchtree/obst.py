@@ -8,6 +8,8 @@
 （2）T的右子树中的所有元素都比根结点中的元素大。
 （3）T的左子树和右子树也是二分检索树。
 注：Binary Search Tree要求树中的结点元素值互异。
+
+因为输入的结点已经排序，所以计算的W[i,j]和C[i,j]，都是寻找k将连续的结点分成[i,k-1],[k,j]两部分
 '''
 
 from dynamicprogramming.optimalbinarysearchtree import node
