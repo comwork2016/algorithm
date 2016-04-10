@@ -50,3 +50,6 @@
 3. [最优成本二分检索树：](./dynamicprogramming/optimalbinarysearchtree)详细说明见[印象笔记
 ](https://app.yinxiang.com/shard/s66/nl/14320022/b8c14f2d-ba6e-4415-acfe-9152f8b38621?title=%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92_%E6%9C%80
 %E4%BC%98%E4%BA%8C%E5%88%86%E6%A3%80%E7%B4%A2%E6%A0%91)
+4. [旅行商问题：](./dynamicprogramming/tsp)详细说明见[印象笔记
+](https://app.yinxiang.com/shard/s66/nl/14320022/f18b63ed-2eea-4fdd-b880-8ddb5b4ebe0e?title=%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%20%E8%A7%
+A3TSP%20%E6%97%85%E8%A1%8C%E5%95%86%E9%97%AE%E9%A2%98)
