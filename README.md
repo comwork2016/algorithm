@@ -54,6 +54,6 @@
 ](https://app.yinxiang.com/shard/s66/nl/14320022/f18b63ed-2eea-4fdd-b880-8ddb5b4ebe0e?title=%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%20%E8%A7%
 A3TSP%20%E6%97%85%E8%A1%8C%E5%95%86%E9%97%AE%E9%A2%98)
 
-##回溯法
+##五、回溯法
 首先确定解空间组织结构，然后从根节点开始扫描，采用深度优先搜索的方式扫描整个树。<br>
-1. [树的深度优先搜索](./backtracing/ListGraph)<br>
+1. [树的深度优先搜索](./backtracking/ListGraph)<br>
