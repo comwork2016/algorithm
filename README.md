@@ -58,3 +58,4 @@ A3TSP%20%E6%97%85%E8%A1%8C%E5%95%86%E9%97%AE%E9%A2%98)
 首先确定解空间组织结构，然后从根节点开始扫描，采用深度优先搜索的方式扫描整个树。<br>
 1. [树的深度优先搜索](./backtracking/ListGraph)<br>
 2. [素数环](./backtracking/PrimeRing)<br>
+3. [N皇后问题](./backtracking/NQueens)包含递归和迭代两种算法<br>
