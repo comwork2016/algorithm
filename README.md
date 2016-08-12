@@ -53,6 +53,9 @@
 4. [旅行商问题：](./dynamicprogramming/tsp)详细说明见[印象笔记
 ](https://app.yinxiang.com/shard/s66/nl/14320022/f18b63ed-2eea-4fdd-b880-8ddb5b4ebe0e?title=%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%20%E8%A7%
 A3TSP%20%E6%97%85%E8%A1%8C%E5%95%86%E9%97%AE%E9%A2%98)
+5. [最长公共子序列](./dynamicprogramming/lcs)详细说明见[印象笔记
+](https://app.yinxiang.com/shard/s66/nl/14320022/26180721-eece-4f4d-b4c4-5be5b1c45335/?csrfBusterToken=U%3Dda8196%3AP%3D%2F%3AE%3D1567ee3c
+285%3AS%3D7707069aa68e8d9248d534982f9174b7)
 
 ##五、回溯法
 首先确定解空间组织结构，然后从根节点开始扫描，采用深度优先搜索的方式扫描整个树。<br>
