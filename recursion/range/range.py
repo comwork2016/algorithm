@@ -6,8 +6,7 @@
 求 n 个元素的全排列。
 """
 
-
-def dorange(e: list, k, n):
+def dorange(e, k, n):
     "e: list of elements, range from k to n"
     if k == n:
         print(e)

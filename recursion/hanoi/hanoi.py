@@ -14,4 +14,4 @@ def hanoi(n, X, Y, Z):
 
 
 if __name__ == '__main__':
-    hanoi(5, "X", "Y", "Z")
+    hanoi(3, "X", "Y", "Z")

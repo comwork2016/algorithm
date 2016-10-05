@@ -1,13 +1,6 @@
 #!/usr/bin/python
 
-"""
-[简单的0/1 背包问题]设一背包可容物品的最大质量为m,
-现有n件物品, 质量为m1 , m2 , ⋯ , mn
-mi,均为正整数,要从n件物品中挑选若干件,使放入背包的质量之和正好为m。
-"""
-
-
-def knap(ms: tuple, n: int, m: int, list: list) -> list:
+def knap(ms, n, m, list):
     "ms is the quality list, n is the count of things,\
      m is the total quality we want, and list is the index of selected things."
 
